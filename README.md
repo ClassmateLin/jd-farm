@@ -36,6 +36,11 @@ JD_COOKIE="pt_pin=xxx;pt_key=xxx;&pt_pin=sfafa;pt_key=sfafaf;remark=xx的账号;
 ./jd_farm
 ```
 
+## 其他脚本
+
+- [签到领京豆](https://github.com/ClassmateLin/jd-take-bean)
+
+- [丘大叔签到](https://github.com/ClassmateLin/uncle-qiu-sign-in)
 
 ## 免责声明
 
